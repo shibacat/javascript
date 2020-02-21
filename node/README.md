@@ -1,13 +1,13 @@
-Node.js Express‚Å‘‚¢‚½ƒT[ƒo[
+Node.js Expressã§æ›¸ã„ãŸã‚µãƒ¼ãƒãƒ¼
 =============
 
-ŠÂ‹«: Node.js 
-WEBƒAƒvƒŠƒP[ƒVƒ‡ƒ“ƒtƒŒ[ƒ€ƒ[ƒN: Express
+ç’°å¢ƒ: Node.js 
+WEBã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯: Express
 
 
-#### ƒCƒ“ƒXƒg[ƒ‹
+#### æº–å‚™
 
-Node.js‚ÌƒCƒ“ƒXƒg[ƒ‹•û–@‚ÍÈ—ª
+Node.jsã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ–¹æ³•ã¯çœç•¥
 
 * log4js
 npm install log4js
@@ -17,9 +17,9 @@ npm install express --save
 
 
 
-#### ‹N“®
+#### èµ·å‹•
 
-ƒ|[ƒg”Ô†‚ª‹ó‚¢‚Ä‚¢‚é‚±‚Æ‚ª‘O’ñ‚Å‚·B
+ãƒãƒ¼ãƒˆç•ªå·ãŒç©ºã„ã¦ã„ã‚‹ã“ã¨ãŒå‰æã§ã™ã€‚
 
 node express_server.js
 
